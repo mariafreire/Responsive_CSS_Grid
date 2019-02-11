@@ -1,2 +1,3 @@
 # Responsive_CSS_Grid
-CSS Grid
+
+Practicing CSS Grid with Traversy Media tutorial.
